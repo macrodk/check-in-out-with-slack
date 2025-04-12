@@ -19,6 +19,7 @@ Install required Python packages:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ```bash
 python3 attendance_bot.py
