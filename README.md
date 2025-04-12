@@ -1,6 +1,6 @@
 # Slack Attendance Bot
 
-![그림1](https://github.com/user-attachments/assets/c53efa6d-e0bd-4796-8934-0297bb377f0a)
+![그림2](https://github.com/user-attachments/assets/4269ce60-46a4-44af-96c9-86eeda7dfb23)
 
 This is a Slack-based attendance bot that allows users to check in and out using `/출근` and `/퇴근` commands. It also automatically sends reminder messages every weekday morning at 10-minute intervals from 09:00 to 09:50.
 
