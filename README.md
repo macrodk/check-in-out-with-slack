@@ -1,12 +1,10 @@
-# check-in-out-with-slack
-
 # Slack Attendance Bot
 
 This is a Slack-based attendance bot that allows users to check in and out using `/출근` and `/퇴근` commands. It also automatically sends reminder messages every weekday morning at 10-minute intervals from 09:00 to 09:50.
 
 ## ✅ Features
 
-- Slack slash commands: `/출근`, `/퇴근`
+- Slack slash commands: `/checkin`, `/checkout`
 - Weekly Excel file storage: `attendance_MMDD_MMDD.xlsx`
 - Each user has their own Excel sheet
 - Lunch break (12:00–13:00) is excluded from work hours
